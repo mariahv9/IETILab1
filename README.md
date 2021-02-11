@@ -1,3 +1,20 @@
+### Escuela Colombiana de Ingeniería
+### INNOVACIÓN Y EMPRENDIMIENTO DE TI - IETI
+
+## Laboratororio 1
+
+Start:
+
+```
+git clone https://github.com/mariahv9/IETILab1.git
+cd IETILab1
+cd todo-app
+npm install
+npm start
+```
+
+[Localhost](http://localhost:3000/index.html)
+
 [![npm](https://img.shields.io/badge/npm-v6.13.4-red.svg)](https://www.npmjs.com/)
 [![npx](https://img.shields.io/badge/dependencies-npx-orange)](https://www.npmjs.com/package/npx)
 
@@ -144,3 +161,15 @@ class TodoApp extends React.Component {
   }
 }
 ```
+
+## Construido con 
+
+* [Javascript](https://www.javascript.com/)
+* [React](https://reactjs.org/) 
+
+## Authors
+
+* **Maria Fernanda Hernandez Vargas** - [PurpleBooth](https://github.com/mariahv9)
+
+
+Student of Systems Engineering of Escuela Colombiana de Ingenieria Julio Garavito 
